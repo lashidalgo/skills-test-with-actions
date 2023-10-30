@@ -1,0 +1,14 @@
+name: ci
+on: push
+jobs:
+  job1:
+    name: First job
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@v2
+
+    - name: Run markdown lint
+      run: |
+        npm install remark-cli remark-preset-lint-consistent
+        npx remark . --use remark-preset-lint-consistent --frail
