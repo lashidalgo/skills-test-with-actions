@@ -6,7 +6,7 @@ _Charting the knowledge of the Internet, just like Galileo charted the stars_
 
 ### GitHub Trainer
 
-Teach all things _Git_, give away all the stickers, ensure world peace.
+Teach all things _Git_, give away all the stickers, and ensure world peace.
 
 <!--
   Note here: Learners -- yup, you found the error!
@@ -21,7 +21,7 @@ Provide _world class support_ to customers on the GitHub platform
 
 ### Education
 
-Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+Developed and maintained various conference talks, online training, and in-person training covering various topics including Git, GitHub, and Open Source.
 
 ### Leadership
 
