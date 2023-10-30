@@ -1,7 +1,5 @@
 name: ci
-
 on: push
-
 jobs:
   job1:
     name: First job
